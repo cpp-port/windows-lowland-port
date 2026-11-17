@@ -2,3 +2,7 @@
 	path = base
 	url = ../windows-lowland-port-base
 	branch = main
+[submodule "common"]
+	path = common
+	url = ../lowland-port-common
+	branch = main
