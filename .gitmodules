@@ -1,0 +1,8 @@
+[submodule "base"]
+	path = base
+	url = ../../ca2/windows-port-base
+	branch = main
+[submodule "common"]
+	path = common
+	url = ../../ca2/port-common
+	branch = main
